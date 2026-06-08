@@ -26,3 +26,4 @@ C:\Users\JOA\Documents\GCTU\L300, sem2\visual programming\ConsoleApp\obj\Debug\n
 C:\Users\JOA\Documents\GCTU\L300, sem2\visual programming\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
 C:\Users\JOA\Documents\GCTU\L300, sem2\visual programming\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\JOA\Documents\GCTU\L300, sem2\visual programming\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
+C:\Users\JOA\Documents\GCTU\L300, sem2\visual programming\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json

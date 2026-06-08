@@ -1,5 +1,4 @@
-﻿using System;
-namespace ConsoleApp;
+﻿namespace ConsoleApp;
 
 public class Introduction
 {

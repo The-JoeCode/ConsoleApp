@@ -11,7 +11,7 @@ namespace ConsoleApp
     {
         public override void Describe()
         {
-            Console.WriteLine("I am a circle");
+            Console.WriteLine("I am a circle\n");
         }
     }
 
@@ -19,7 +19,7 @@ namespace ConsoleApp
     {
         public override void Describe()
         {
-            Console.WriteLine("I am a triangle");
+            Console.WriteLine("I am a triangle\n");
         }
     }
 }

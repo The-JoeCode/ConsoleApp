@@ -6,24 +6,25 @@ namespace ConsoleApp
         public string? indexNumber;
         public string? name;
         public int level;
-        private int _level
-        {
-            //Getters and setters
-            //These are used to validate inputs
-            get => _level;
-            set
-            {
+        // private int _level
+        // {
+        //     //Getters and setters
+        //     //These are used to validate inputs
+        //     get => level;
+        //     set
+        //     {
 
-                if (value > 400)
-                {
-                    Console.WriteLine("Level cannot be greater than 400");
-                }
-                else
-                {
-                    level = value;
-                }
-            }
-        }
+        //         if (value > 400)
+        //         {
+        //             Console.WriteLine("Level cannot be greater than 400\nSetting level to 400");
+        //             level = 400;
+        //         }
+        //         else
+        //         {
+        //             level = value;
+        //         }
+        //     }
+        // }
 
         // Constructor of Engineering class with parameters
         public Engineering(string name, string indexNumber, int level)
@@ -39,7 +40,7 @@ namespace ConsoleApp
         // Welcome user method
         public void Welcome()
         {
-            Console.WriteLine($"\nWelcome to the Engineering faculty, {name}. Your index number is {indexNumber} and your level is {level}");
+            Console.WriteLine($"\nWelcome to the Engineering faculty, {name}. Your index number is {indexNumber} and your level is {level}.");
         }
     }
 }
